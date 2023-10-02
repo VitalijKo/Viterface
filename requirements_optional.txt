@@ -1,0 +1,7 @@
+Pillow
+PySimpleGUI
+PySimpleGUIQt
+PySimpleGUIWeb
+PyYAML
+catpandoc
+getostheme
